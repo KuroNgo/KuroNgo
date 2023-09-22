@@ -14,5 +14,5 @@ You can check out my portfolio website [here](https://readme-start-2fr98fl1n-hoa
 
 Here are some of the skills I've acquired:
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,go,postgres,md,mongodb,mysql,typescript,javascript,vuejs)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,go,postgres,md,mongodb,mysql,typescript,javascript,vuejs)](https://skillicons.dev)
 
