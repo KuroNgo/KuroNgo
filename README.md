@@ -6,10 +6,6 @@ I'm a software developer who believes that **software development is a form of a
 
 You can check out my portfolio website [here](https://readme-start-2fr98fl1n-hoaiphong01012002-gmailcom.vercel.app/).
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eminetto&theme=buefy)
-
 ## My Skills
 
 Here are some of the skills I've acquired:
