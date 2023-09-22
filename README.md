@@ -11,4 +11,4 @@ I believe that **software development is a form of art**, like a piece of good m
 </table>
 </center>  
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,go,linux,md,mongodb,mysql,php,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,go,postgres,md,mongodb,mysql,csharp,vuejs)](https://skillicons.dev)
