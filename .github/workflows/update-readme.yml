@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # C?p nh?t m?i 12 gi?, b?n có th? d?t th?i gian c?p nh?t tùy ý
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14 # Ch?n phiên b?n Node.js tuong ?ng
+
+      - name: Install dependencies
+        run: npm install # ho?c yarn install tùy thu?c vào d? án c?a b?n
+
+      - name: Update README
+        run: |
+          curl https://readme-start-2fr98fl1n-hoaiphong01012002-gmailcom.vercel.app -o updated-readme.html
+          # L?y n?i dung t? Vercel và luu vào t?p updated-readme.html
+          
+          # Ti?p theo, b?n có th? s? d?ng công c? d? phân tích t?p HTML này và trích xu?t thông tin c?n thi?t
+          # và sau dó c?p nh?t t?p README c?a b?n b?ng thông tin dó.
