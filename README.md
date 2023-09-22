@@ -1,7 +1,14 @@
-### Hi there, I'm Kuro 👋
+## I'm a software developer
 
-- 🔭 I’m currently working on: DaLat - LamDong - VietNam
-- 🌱 I’m currently learning C-Sharp, ReactJS, Golang and the others things include: securing, API,....
-- 👯 I’m looking to collaborate on github, gmail
-- 📫 How to reach me: hoaiphong01012002@gmail.com
-- ⚡ Fun fact: Nothing is impossible
+I believe that **software development is a form of art**, like a piece of good music (a heavy metal one, if I can choose 🤘), and I'm always aiming to improve my skills.
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminetto&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eminetto&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,go,linux,md,mongodb,mysql,php,vuejs)](https://skillicons.dev)
