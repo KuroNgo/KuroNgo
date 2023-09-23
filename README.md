@@ -13,5 +13,10 @@ You can check out my portfolio website [here](https://onmyoji-github-io.vercel.a
 
 Here are some of the skills I've acquired:
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,jenkins,docker,git,go,postgres,mongodb,nodejs,postman,tailwind,dotnet,vite,nuxtjs,ps,typescript,javascript,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nuxtjs,typescript,javascript,vuejs,go,tailwind,vite)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,jenkins,docker,git,postgres,mongodb,nodejs,postman,ps)](https://skillicons.dev)
+
+
 
