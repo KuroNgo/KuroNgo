@@ -1,4 +1,4 @@
-# About Me
+<h2>About Me</h2>
 
 I'm a software developer who believes that **software development is a form of art**, much like a piece of good music (especially heavy metal 🤘). I'm constantly striving to enhance my skills.
 
