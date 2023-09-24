@@ -9,14 +9,6 @@ You can check out my portfolio website [here](https://onmyoji-github-io.vercel.a
 ## My Web Builded
 [1. Onmyoji with HTML - 2022](https://onmyoji-github-io.vercel.app/)
 
-## My Skills
-
-Here are some of the skills I've acquired:
-
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nuxtjs,typescript,javascript,vuejs,go,tailwind,vite)](https://skillicons.dev)
-
-
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,jenkins,docker,git,postgres,mongodb,nodejs,postman,ps)](https://skillicons.dev)
 
 
 
