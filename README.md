@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KuroNgo&label=Profile%20views&color=0e75b6&style=flat" alt="KuroNgo" /> </p>
 <h2>About Me</h2>
 
 I'm a software developer who believes that **software development is a form of art**, 
