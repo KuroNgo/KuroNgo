@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=KuroNgo&label=Profile%20views&color=0e75b6&style=flat" alt="KuroNgo profile views" />
 </p>
 
-- 🔹 **Backend Developer**
-- 🌱 **Learning**
+- 🔹 **Backend Developer**: Golang (Gin, Echo), NodeJS
 - 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/kurongo) | [Email](mailto:hoaiphong01012002@gmail.com)
 
 ---
