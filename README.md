@@ -12,5 +12,3 @@
 
 ### 🌐 Projects
 - [**Shop ERP**](https://shop-erp-fe.vercel.app): E-commerce platform for small businesses (is in the process of being improved))
-
----
