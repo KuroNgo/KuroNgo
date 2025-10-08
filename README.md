@@ -10,7 +10,7 @@
 🔹 **Fullstack Developer** with expertise in **Golang (Gin, Echo)** & **Vue.js (Nuxt)**  
 💡 Passionate about clean architecture, performance optimization, and scalability  
 📚 Always exploring new technologies & best practices  
-
+Contact me: hoaiphong01012002@gmail.com
 ---
 ## Project
 [Cozy Media](https://cozymedia.vn)
