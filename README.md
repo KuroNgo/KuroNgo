@@ -29,7 +29,7 @@ I am a **Fullstack Developer** specializing in building scalable backend systems
 
 | Backend (Core) | Frontend | Database & Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=go,cpp" /> <br/> **Gin, Echo, GORM** | <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,linux,postman" /> |
+| <img src="https://skillicons.dev/icons?i=go" /> <br/> **Gin, Echo, GORM** | <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,linux,postman" /> |
 
 </div>
 
