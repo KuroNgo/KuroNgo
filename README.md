@@ -32,22 +32,3 @@ I am a **Fullstack Developer** specializing in building scalable backend systems
 | <img src="https://skillicons.dev/icons?i=go" /> <br/> **Gin, Echo, GORM** | <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,linux,postman" /> |
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-#### 🎵 [Cozy Media](https://cozymedia.vn)
-> A comprehensive media platform.
-
-* **Role:** Fullstack Developer
-* **Tech Stack:** Golang, Vue.js (Nuxt), PostgreSQL.
-* **Key Features:** High-performance streaming, scalable architecture.
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfXOpkp1VfO/giphy.gif" width="100" alt="Gopher coding">
-  <br>
-  <i>"Talk is cheap. Show me the code."</i>
-</p>
